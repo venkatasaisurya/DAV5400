@@ -1,0 +1,22 @@
+{
+	"albums": [
+		{
+			"Title": "Unorthodox Jukebox",
+			"Artist": "Bruno Mars",
+			"Songs": ["Young Girls", "Locked Out of Heaven", "Gorilla"],
+			"Year": "2012"
+		},
+		{
+			"Title": "Exclusive",
+			"Artist": "Chris Brown",
+			"Songs": ["Take You Down", "With You", "Wall To Wall"],
+			"Year": "2008"
+		},
+		{
+			"Title": "Starboy",
+			"Artist": "The Weeknd",
+			"Songs": ["All I Know", "I Feel It Coming", "Sidewalks"],
+			"Year": "2016"
+		}
+	]
+}
